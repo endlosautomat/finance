@@ -1,0 +1,37 @@
+WARNING:root:And this, too
+DEBUG:root:Setting the API Key
+INFO:root:start calling service 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=LHA.DE&apikey=6PIRCZQQY12S49FR HTTP/1.1" 200 None
+INFO:root:calling service finished
+DEBUG:root:the fetched data is from: 2017-12-08
+2017-12-10 23:21:35,866 Setting the API Key
+2017-12-10 23:21:35,866 start calling service 
+2017-12-10 23:21:35,898 Starting new HTTPS connection (1): www.alphavantage.co
+2017-12-10 23:21:37,951 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=LHA.DE&apikey=6PIRCZQQY12S49FR HTTP/1.1" 200 None
+2017-12-10 23:21:38,064 calling service finished
+2017-12-10 23:21:38,065 the fetched data is from: 2017-12-08
+2017-12-10 23:21:48,901 Setting the API Key
+2017-12-10 23:21:48,901 start calling service 
+2017-12-10 23:21:48,910 Starting new HTTPS connection (1): www.alphavantage.co
+2017-12-10 23:21:49,932 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=LHA.DE&apikey=6PIRCZQQY12S49FR HTTP/1.1" 200 None
+2017-12-10 23:21:50,051 calling service finished
+2017-12-10 23:21:50,052 the fetched data is from: 2017-12-08
+2017-12-10 23:23:54,171 Setting the API Key
+2017-12-10 23:23:54,171 start calling service 
+2017-12-10 23:23:54,201 Starting new HTTPS connection (1): www.alphavantage.co
+2017-12-10 23:23:57,421 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=LHA.DE&apikey=6PIRCZQQY12S49FR HTTP/1.1" 200 None
+2017-12-10 23:23:57,539 calling service finished
+2017-12-10 23:23:57,540 the fetched data is from: 2017-12-08
+2017-12-10 23:25:01,719 Setting the API Key
+2017-12-10 23:25:01,719 ------------------------- start calling service 
+2017-12-10 23:25:01,758 Starting new HTTPS connection (1): www.alphavantage.co
+2017-12-10 23:25:05,927 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=LHA.DE&apikey=6PIRCZQQY12S49FR HTTP/1.1" 200 None
+2017-12-10 23:25:06,046 calling service finished
+2017-12-10 23:25:06,047 the fetched data is from: 2017-12-08
+2017-12-11 22:43:47,531 Setting the API Key
+2017-12-11 22:43:47,531 ------------------------- start calling service 
+2017-12-11 22:43:47,564 Starting new HTTPS connection (1): www.alphavantage.co
+2017-12-11 22:43:52,431 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=LHA.DE&apikey=6PIRCZQQY12S49FR HTTP/1.1" 200 None
+2017-12-11 22:43:52,566 calling service finished
+2017-12-11 22:43:52,567 the fetched data is from: 2017-12-11
